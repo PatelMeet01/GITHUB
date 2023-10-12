@@ -1,2 +1,4 @@
 hello mitra
 hello bhaibandh
+chage the txt file
+for gitup
